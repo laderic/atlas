@@ -1,0 +1,9 @@
+node_modules
+out
+dist
+*.exe
+*.blockmap
+.DS_Store
+Thumbs.db
+dados/
+tsconfig.check.json

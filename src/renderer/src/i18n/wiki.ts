@@ -1,0 +1,55 @@
+import { bi } from '@/lib/i18n'
+const pt_tw = {
+  wiki: 'Wiki',
+  title: 'Título do site',
+  theme: 'Tema',
+  themes: { escuro: 'Escuro', claro: 'Claro', pergaminho: 'Pergaminho' },
+  folder: 'Pasta de saída',
+  chooseFolder: 'Escolher pasta',
+  defaultFolder: 'Pasta padrão do Atlas',
+  domain: 'Domínio local',
+  domainHelp: 'Nome de exibição no site. Para usar um endereço próprio como minhawiki.local, adicione uma linha no arquivo hosts do Windows apontando para 127.0.0.1 (opcional).',
+  port: 'Porta do servidor local',
+  publish: 'Publicar',
+  publishing: 'Publicando…',
+  open: 'Abrir no navegador',
+  stop: 'Parar servidor',
+  running: 'Servidor ativo em',
+  notRunning: 'O servidor não está ativo. Ao abrir, ele inicia sozinho.',
+  openFolder: 'Abrir pasta',
+  published: (n: number) => `Wiki publicada com ${n} páginas.`,
+  cardsSection: 'Cards no site',
+  cardsHelp: 'Desmarque um card para que ele não tenha página e não apareça no site.',
+  noCards: 'Este mundo ainda não tem cards.',
+  saved: 'Configurações salvas.',
+  howTo: 'Como funciona',
+  howToText: 'A wiki é um conjunto de arquivos HTML. Publique para gerar, e abra no navegador para ver. Ela funciona sem internet e pode ser copiada para qualquer lugar.'
+}
+
+const en_tw = {
+  wiki: 'Wiki',
+  title: 'Site title',
+  theme: 'Theme',
+  themes: { escuro: 'Dark', claro: 'Light', pergaminho: 'Parchment' },
+  folder: 'Output folder',
+  chooseFolder: 'Choose folder',
+  defaultFolder: 'Atlas default folder',
+  domain: 'Local domain',
+  port: 'Local server port',
+  publish: 'Publish',
+  publishing: 'Publishing…',
+  open: 'Open in browser',
+  stop: 'Stop server',
+  running: 'Server running at',
+  notRunning: 'The server is not running. It starts by itself when you open the site.',
+  openFolder: 'Open folder',
+  published: (n: number) => `Wiki published with ${n} pages.`,
+  cardsSection: 'Cards on the site',
+  cardsHelp: 'Uncheck a card to leave it out of the site.',
+  noCards: 'This world has no cards yet.',
+  saved: 'Settings saved.',
+  howTo: 'How it works',
+  howToText: 'The wiki is a set of HTML files. Publish to generate them, then open them in the browser. It works without internet and can be copied anywhere.'
+}
+
+export const tw = bi(pt_tw, en_tw)

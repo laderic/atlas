@@ -1,0 +1,50 @@
+{
+  "format": "atlas-tool",
+  "id": "oficina-literaria",
+  "name": "Oficina literária",
+  "version": "1.0.0",
+  "description": "Modelos para escrever personagens, cenas e lugares com perguntas que ajudam a começar.",
+  "templates": [
+    {
+      "id": "personagem-secundario",
+      "name": "Personagem secundário",
+      "kind": "card",
+      "typeName": "Personagem secundário",
+      "fields": [
+        { "key": "papel", "label": "Papel na história", "kind": "text", "options": [] },
+        { "key": "relacao", "label": "Relação com o protagonista", "kind": "select", "options": ["aliado", "rival", "mentor", "família", "desconhecido"] }
+      ],
+      "sections": [
+        { "title": "Quem é", "prompt": "Em duas frases, o que essa pessoa quer e o que teme?" },
+        { "title": "Como fala", "prompt": "Uma fala típica, com o jeito de dizer as coisas." },
+        { "title": "O que esconde", "prompt": "Um segredo que ninguém deveria saber." }
+      ]
+    },
+    {
+      "id": "cena",
+      "name": "Cena",
+      "kind": "card",
+      "typeName": "Cena",
+      "fields": [
+        { "key": "tom", "label": "Tom", "kind": "select", "options": ["tenso", "melancólico", "leve", "épico", "íntimo"] }
+      ],
+      "sections": [
+        { "title": "Onde e quando", "prompt": "O lugar e o momento, em uma frase." },
+        { "title": "O que muda", "prompt": "Qual decisão ou revelação altera a história?" },
+        { "title": "Último detalhe", "prompt": "Uma imagem que fica na memória do leitor." }
+      ]
+    },
+    {
+      "id": "retrato",
+      "name": "Retrato literário",
+      "kind": "ficha",
+      "typeName": "Retrato",
+      "fields": [
+        { "key": "aparencia", "label": "Aparência", "kind": "select", "options": ["discreta", "marcante", "elegante", "desgastada"] },
+        { "key": "voz", "label": "Voz", "kind": "select", "options": ["suave", "firme", "rouca", "melodiosa", "áspera"] },
+        { "key": "gesto", "label": "Gesto habitual", "kind": "text", "options": [] }
+      ],
+      "sections": []
+    }
+  ]
+}

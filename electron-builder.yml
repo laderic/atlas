@@ -1,0 +1,27 @@
+appId: local.atlas.worldbuilding
+productName: Atlas
+directories:
+  buildResources: resources
+  output: dist
+files:
+  - out/**
+asarUnpack:
+  - "**/*.node"
+npmRebuild: false
+win:
+  target:
+    - target: nsis
+      arch: [x64]
+  # Sem assinatura de código: evita baixar ferramentas de assinatura, que costumam falhar
+  # no Windows sem o modo de desenvolvedor. O .exe funciona normalmente.
+  signAndEditExecutable: false
+nsis:
+  oneClick: false
+  allowToChangeInstallationDirectory: true
+  createDesktopShortcut: true
+  shortcutName: Atlas
+  artifactName: "Atlas-Setup-${version}.${ext}"
+
+extraResources:
+  - from: stock-art
+    to: stock-art

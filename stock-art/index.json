@@ -1,0 +1,770 @@
+{
+  "genres": [
+    {
+      "slug": "contemporaneo-realista",
+      "label": "Contemporâneo / realista"
+    },
+    {
+      "slug": "criaturas-e-natureza",
+      "label": "Naturezas e criaturas"
+    },
+    {
+      "slug": "fantasia-sombria",
+      "label": "Fantasia sombria / terror"
+    },
+    {
+      "slug": "ficcao-cientifica",
+      "label": "Ficção científica / futurismo"
+    },
+    {
+      "slug": "medieval-fantasia",
+      "label": "Medieval / fantasia"
+    },
+    {
+      "slug": "personagens",
+      "label": "Personagens"
+    }
+  ],
+  "items": [
+    {
+      "id": "medieval-fantasia-armas-01",
+      "genre": "medieval-fantasia",
+      "genreLabel": "Medieval / fantasia",
+      "subgenre": "armas",
+      "file": "medieval-fantasia/armas/01.jpg",
+      "width": 706,
+      "height": 1123,
+      "sha256": "3628546506b7eb15"
+    },
+    {
+      "id": "medieval-fantasia-armas-02",
+      "genre": "medieval-fantasia",
+      "genreLabel": "Medieval / fantasia",
+      "subgenre": "armas",
+      "file": "medieval-fantasia/armas/02.jpg",
+      "width": 1042,
+      "height": 2060,
+      "sha256": "68a8ee4473159bba"
+    },
+    {
+      "id": "medieval-fantasia-armas-03",
+      "genre": "medieval-fantasia",
+      "genreLabel": "Medieval / fantasia",
+      "subgenre": "armas",
+      "file": "medieval-fantasia/armas/03.jpg",
+      "width": 564,
+      "height": 1061,
+      "sha256": "26a16f22e693ccd0"
+    },
+    {
+      "id": "medieval-fantasia-armaduras-01",
+      "genre": "medieval-fantasia",
+      "genreLabel": "Medieval / fantasia",
+      "subgenre": "armaduras",
+      "file": "medieval-fantasia/armaduras/01.jpg",
+      "width": 666,
+      "height": 1080,
+      "sha256": "6e8fa1b38db51e7d"
+    },
+    {
+      "id": "medieval-fantasia-armaduras-02",
+      "genre": "medieval-fantasia",
+      "genreLabel": "Medieval / fantasia",
+      "subgenre": "armaduras",
+      "file": "medieval-fantasia/armaduras/02.jpg",
+      "width": 469,
+      "height": 761,
+      "sha256": "4281028f4c9ab096"
+    },
+    {
+      "id": "medieval-fantasia-armaduras-03",
+      "genre": "medieval-fantasia",
+      "genreLabel": "Medieval / fantasia",
+      "subgenre": "armaduras",
+      "file": "medieval-fantasia/armaduras/03.jpg",
+      "width": 996,
+      "height": 2048,
+      "sha256": "100f4370b0a18fd5"
+    },
+    {
+      "id": "medieval-fantasia-estandartes-01",
+      "genre": "medieval-fantasia",
+      "genreLabel": "Medieval / fantasia",
+      "subgenre": "estandartes",
+      "file": "medieval-fantasia/estandartes/01.jpg",
+      "width": 595,
+      "height": 860,
+      "sha256": "087e5ce41ccd827e"
+    },
+    {
+      "id": "medieval-fantasia-estandartes-02",
+      "genre": "medieval-fantasia",
+      "genreLabel": "Medieval / fantasia",
+      "subgenre": "estandartes",
+      "file": "medieval-fantasia/estandartes/02.jpg",
+      "width": 676,
+      "height": 1200,
+      "sha256": "dcf8a88ed59244df"
+    },
+    {
+      "id": "medieval-fantasia-estandartes-03",
+      "genre": "medieval-fantasia",
+      "genreLabel": "Medieval / fantasia",
+      "subgenre": "estandartes",
+      "file": "medieval-fantasia/estandartes/03.jpg",
+      "width": 816,
+      "height": 1134,
+      "sha256": "636a11d775c51632"
+    },
+    {
+      "id": "medieval-fantasia-simbolos-heraldicos-01",
+      "genre": "medieval-fantasia",
+      "genreLabel": "Medieval / fantasia",
+      "subgenre": "simbolos-heraldicos",
+      "file": "medieval-fantasia/simbolos-heraldicos/01.jpg",
+      "width": 736,
+      "height": 736,
+      "sha256": "2fb07e45c1034662"
+    },
+    {
+      "id": "medieval-fantasia-simbolos-heraldicos-02",
+      "genre": "medieval-fantasia",
+      "genreLabel": "Medieval / fantasia",
+      "subgenre": "simbolos-heraldicos",
+      "file": "medieval-fantasia/simbolos-heraldicos/02.jpg",
+      "width": 630,
+      "height": 630,
+      "sha256": "1ddda609020228cc"
+    },
+    {
+      "id": "medieval-fantasia-simbolos-heraldicos-03",
+      "genre": "medieval-fantasia",
+      "genreLabel": "Medieval / fantasia",
+      "subgenre": "simbolos-heraldicos",
+      "file": "medieval-fantasia/simbolos-heraldicos/03.jpg",
+      "width": 736,
+      "height": 736,
+      "sha256": "3ffcf23ffe9d37bf"
+    },
+    {
+      "id": "medieval-fantasia-castelos-01",
+      "genre": "medieval-fantasia",
+      "genreLabel": "Medieval / fantasia",
+      "subgenre": "castelos",
+      "file": "medieval-fantasia/castelos/01.jpg",
+      "width": 731,
+      "height": 1027,
+      "sha256": "865f913de98d1a25"
+    },
+    {
+      "id": "medieval-fantasia-castelos-02",
+      "genre": "medieval-fantasia",
+      "genreLabel": "Medieval / fantasia",
+      "subgenre": "castelos",
+      "file": "medieval-fantasia/castelos/02.jpg",
+      "width": 1200,
+      "height": 1597,
+      "sha256": "9010998dad776364"
+    },
+    {
+      "id": "medieval-fantasia-castelos-03",
+      "genre": "medieval-fantasia",
+      "genreLabel": "Medieval / fantasia",
+      "subgenre": "castelos",
+      "file": "medieval-fantasia/castelos/03.jpg",
+      "width": 479,
+      "height": 720,
+      "sha256": "484852a98e406f0a"
+    },
+    {
+      "id": "medieval-fantasia-florestas-01",
+      "genre": "medieval-fantasia",
+      "genreLabel": "Medieval / fantasia",
+      "subgenre": "florestas",
+      "file": "medieval-fantasia/florestas/01.jpg",
+      "width": 1200,
+      "height": 1200,
+      "sha256": "7e384530bd2c68fd"
+    },
+    {
+      "id": "medieval-fantasia-florestas-02",
+      "genre": "medieval-fantasia",
+      "genreLabel": "Medieval / fantasia",
+      "subgenre": "florestas",
+      "file": "medieval-fantasia/florestas/02.jpg",
+      "width": 562,
+      "height": 750,
+      "sha256": "bfbb3e7fb98aaeab"
+    },
+    {
+      "id": "medieval-fantasia-florestas-03",
+      "genre": "medieval-fantasia",
+      "genreLabel": "Medieval / fantasia",
+      "subgenre": "florestas",
+      "file": "medieval-fantasia/florestas/03.jpg",
+      "width": 1000,
+      "height": 1372,
+      "sha256": "3e705ef025637ba2"
+    },
+    {
+      "id": "medieval-fantasia-vilas-01",
+      "genre": "medieval-fantasia",
+      "genreLabel": "Medieval / fantasia",
+      "subgenre": "vilas",
+      "file": "medieval-fantasia/vilas/01.jpg",
+      "width": 736,
+      "height": 428,
+      "sha256": "600aed485ae975b0"
+    },
+    {
+      "id": "medieval-fantasia-vilas-02",
+      "genre": "medieval-fantasia",
+      "genreLabel": "Medieval / fantasia",
+      "subgenre": "vilas",
+      "file": "medieval-fantasia/vilas/02.jpg",
+      "width": 1200,
+      "height": 675,
+      "sha256": "cfb81c523847660f"
+    },
+    {
+      "id": "medieval-fantasia-vilas-03",
+      "genre": "medieval-fantasia",
+      "genreLabel": "Medieval / fantasia",
+      "subgenre": "vilas",
+      "file": "medieval-fantasia/vilas/03.jpg",
+      "width": 1000,
+      "height": 542,
+      "sha256": "925c4f76c6d154dd"
+    },
+    {
+      "id": "contemporaneo-realista-ambientes-urbanos-01",
+      "genre": "contemporaneo-realista",
+      "genreLabel": "Contemporâneo / realista",
+      "subgenre": "ambientes-urbanos",
+      "file": "contemporaneo-realista/ambientes-urbanos/01.jpg",
+      "width": 564,
+      "height": 798,
+      "sha256": "3277316df7b2b5d9"
+    },
+    {
+      "id": "contemporaneo-realista-ambientes-urbanos-02",
+      "genre": "contemporaneo-realista",
+      "genreLabel": "Contemporâneo / realista",
+      "subgenre": "ambientes-urbanos",
+      "file": "contemporaneo-realista/ambientes-urbanos/02.jpg",
+      "width": 736,
+      "height": 736,
+      "sha256": "32aa16d102b26a9f"
+    },
+    {
+      "id": "contemporaneo-realista-ambientes-urbanos-03",
+      "genre": "contemporaneo-realista",
+      "genreLabel": "Contemporâneo / realista",
+      "subgenre": "ambientes-urbanos",
+      "file": "contemporaneo-realista/ambientes-urbanos/03.jpg",
+      "width": 578,
+      "height": 770,
+      "sha256": "f645d4a5bfa56e2c"
+    },
+    {
+      "id": "contemporaneo-realista-interiores-01",
+      "genre": "contemporaneo-realista",
+      "genreLabel": "Contemporâneo / realista",
+      "subgenre": "interiores",
+      "file": "contemporaneo-realista/interiores/01.jpg",
+      "width": 1000,
+      "height": 479,
+      "sha256": "ea4714b8adac4442"
+    },
+    {
+      "id": "contemporaneo-realista-interiores-02",
+      "genre": "contemporaneo-realista",
+      "genreLabel": "Contemporâneo / realista",
+      "subgenre": "interiores",
+      "file": "contemporaneo-realista/interiores/02.jpg",
+      "width": 1200,
+      "height": 675,
+      "sha256": "2f2c1ae2f2eaba26"
+    },
+    {
+      "id": "contemporaneo-realista-interiores-03",
+      "genre": "contemporaneo-realista",
+      "genreLabel": "Contemporâneo / realista",
+      "subgenre": "interiores",
+      "file": "contemporaneo-realista/interiores/03.jpg",
+      "width": 1200,
+      "height": 675,
+      "sha256": "66925b13acb8b92a"
+    },
+    {
+      "id": "contemporaneo-realista-paisagens-comuns-01",
+      "genre": "contemporaneo-realista",
+      "genreLabel": "Contemporâneo / realista",
+      "subgenre": "paisagens-comuns",
+      "file": "contemporaneo-realista/paisagens-comuns/01.jpg",
+      "width": 1200,
+      "height": 569,
+      "sha256": "55538e1580565b39"
+    },
+    {
+      "id": "contemporaneo-realista-paisagens-comuns-02",
+      "genre": "contemporaneo-realista",
+      "genreLabel": "Contemporâneo / realista",
+      "subgenre": "paisagens-comuns",
+      "file": "contemporaneo-realista/paisagens-comuns/02.jpg",
+      "width": 736,
+      "height": 414,
+      "sha256": "98db35f382879569"
+    },
+    {
+      "id": "contemporaneo-realista-paisagens-comuns-03",
+      "genre": "contemporaneo-realista",
+      "genreLabel": "Contemporâneo / realista",
+      "subgenre": "paisagens-comuns",
+      "file": "contemporaneo-realista/paisagens-comuns/03.jpg",
+      "width": 1200,
+      "height": 800,
+      "sha256": "1dc9df8e9e92a347"
+    },
+    {
+      "id": "ficcao-cientifica-cidades-01",
+      "genre": "ficcao-cientifica",
+      "genreLabel": "Ficção científica / futurismo",
+      "subgenre": "cidades",
+      "file": "ficcao-cientifica/cidades/01.jpg",
+      "width": 563,
+      "height": 626,
+      "sha256": "1aba4fbc782ed22e"
+    },
+    {
+      "id": "ficcao-cientifica-cidades-02",
+      "genre": "ficcao-cientifica",
+      "genreLabel": "Ficção científica / futurismo",
+      "subgenre": "cidades",
+      "file": "ficcao-cientifica/cidades/02.jpg",
+      "width": 551,
+      "height": 881,
+      "sha256": "3423aedeb7172204"
+    },
+    {
+      "id": "ficcao-cientifica-cidades-03",
+      "genre": "ficcao-cientifica",
+      "genreLabel": "Ficção científica / futurismo",
+      "subgenre": "cidades",
+      "file": "ficcao-cientifica/cidades/03.jpg",
+      "width": 640,
+      "height": 927,
+      "sha256": "7b999b132ef4a8f7"
+    },
+    {
+      "id": "ficcao-cientifica-estacoes-espaciais-01",
+      "genre": "ficcao-cientifica",
+      "genreLabel": "Ficção científica / futurismo",
+      "subgenre": "estacoes-espaciais",
+      "file": "ficcao-cientifica/estacoes-espaciais/01.jpg",
+      "width": 800,
+      "height": 1132,
+      "sha256": "25b4991a13054c3c"
+    },
+    {
+      "id": "ficcao-cientifica-estacoes-espaciais-02",
+      "genre": "ficcao-cientifica",
+      "genreLabel": "Ficção científica / futurismo",
+      "subgenre": "estacoes-espaciais",
+      "file": "ficcao-cientifica/estacoes-espaciais/02.jpg",
+      "width": 736,
+      "height": 917,
+      "sha256": "b3dfbd96ee28c597"
+    },
+    {
+      "id": "ficcao-cientifica-estacoes-espaciais-03",
+      "genre": "ficcao-cientifica",
+      "genreLabel": "Ficção científica / futurismo",
+      "subgenre": "estacoes-espaciais",
+      "file": "ficcao-cientifica/estacoes-espaciais/03.jpg",
+      "width": 853,
+      "height": 551,
+      "sha256": "177ac6afe0818e12"
+    },
+    {
+      "id": "ficcao-cientifica-planetas-01",
+      "genre": "ficcao-cientifica",
+      "genreLabel": "Ficção científica / futurismo",
+      "subgenre": "planetas",
+      "file": "ficcao-cientifica/planetas/01.jpg",
+      "width": 1024,
+      "height": 1024,
+      "sha256": "cd2b0db88fdb93e6"
+    },
+    {
+      "id": "ficcao-cientifica-planetas-02",
+      "genre": "ficcao-cientifica",
+      "genreLabel": "Ficção científica / futurismo",
+      "subgenre": "planetas",
+      "file": "ficcao-cientifica/planetas/02.jpg",
+      "width": 787,
+      "height": 787,
+      "sha256": "37f1ef10f7e8a6ae"
+    },
+    {
+      "id": "ficcao-cientifica-planetas-03",
+      "genre": "ficcao-cientifica",
+      "genreLabel": "Ficção científica / futurismo",
+      "subgenre": "planetas",
+      "file": "ficcao-cientifica/planetas/03.jpg",
+      "width": 1200,
+      "height": 1200,
+      "sha256": "f7587826d8571653"
+    },
+    {
+      "id": "criaturas-e-natureza-animais-01",
+      "genre": "criaturas-e-natureza",
+      "genreLabel": "Naturezas e criaturas",
+      "subgenre": "animais",
+      "file": "criaturas-e-natureza/animais/01.jpg",
+      "width": 1024,
+      "height": 1280,
+      "sha256": "7761b36f491a9a86"
+    },
+    {
+      "id": "criaturas-e-natureza-animais-02",
+      "genre": "criaturas-e-natureza",
+      "genreLabel": "Naturezas e criaturas",
+      "subgenre": "animais",
+      "file": "criaturas-e-natureza/animais/02.jpg",
+      "width": 563,
+      "height": 871,
+      "sha256": "ca78faa0aaf9b408"
+    },
+    {
+      "id": "criaturas-e-natureza-animais-03",
+      "genre": "criaturas-e-natureza",
+      "genreLabel": "Naturezas e criaturas",
+      "subgenre": "animais",
+      "file": "criaturas-e-natureza/animais/03.jpg",
+      "width": 600,
+      "height": 750,
+      "sha256": "697438de95d310e3"
+    },
+    {
+      "id": "criaturas-e-natureza-criaturas-fantasticas-01",
+      "genre": "criaturas-e-natureza",
+      "genreLabel": "Naturezas e criaturas",
+      "subgenre": "criaturas-fantasticas",
+      "file": "criaturas-e-natureza/criaturas-fantasticas/01.jpg",
+      "width": 736,
+      "height": 1039,
+      "sha256": "982946076d75ded6"
+    },
+    {
+      "id": "criaturas-e-natureza-criaturas-fantasticas-02",
+      "genre": "criaturas-e-natureza",
+      "genreLabel": "Naturezas e criaturas",
+      "subgenre": "criaturas-fantasticas",
+      "file": "criaturas-e-natureza/criaturas-fantasticas/02.jpg",
+      "width": 736,
+      "height": 1212,
+      "sha256": "6c400ce775dc536b"
+    },
+    {
+      "id": "criaturas-e-natureza-criaturas-fantasticas-03",
+      "genre": "criaturas-e-natureza",
+      "genreLabel": "Naturezas e criaturas",
+      "subgenre": "criaturas-fantasticas",
+      "file": "criaturas-e-natureza/criaturas-fantasticas/03.jpg",
+      "width": 720,
+      "height": 1167,
+      "sha256": "1c9386a0964857d6"
+    },
+    {
+      "id": "personagens-feminino-01",
+      "genre": "personagens",
+      "genreLabel": "Personagens",
+      "subgenre": "feminino",
+      "file": "personagens/feminino/01.jpg",
+      "width": 736,
+      "height": 1104,
+      "sha256": "03339de00a9100de"
+    },
+    {
+      "id": "personagens-feminino-02",
+      "genre": "personagens",
+      "genreLabel": "Personagens",
+      "subgenre": "feminino",
+      "file": "personagens/feminino/02.jpg",
+      "width": 1080,
+      "height": 1484,
+      "sha256": "86991365a857805d"
+    },
+    {
+      "id": "personagens-feminino-03",
+      "genre": "personagens",
+      "genreLabel": "Personagens",
+      "subgenre": "feminino",
+      "file": "personagens/feminino/03.jpg",
+      "width": 729,
+      "height": 1096,
+      "sha256": "5d8950a40e7a4627"
+    },
+    {
+      "id": "personagens-masculino-01",
+      "genre": "personagens",
+      "genreLabel": "Personagens",
+      "subgenre": "masculino",
+      "file": "personagens/masculino/01.jpg",
+      "width": 564,
+      "height": 797,
+      "sha256": "cd5043c6fb2276d5"
+    },
+    {
+      "id": "personagens-masculino-02",
+      "genre": "personagens",
+      "genreLabel": "Personagens",
+      "subgenre": "masculino",
+      "file": "personagens/masculino/02.jpg",
+      "width": 736,
+      "height": 1104,
+      "sha256": "50da73e52c54a86c"
+    },
+    {
+      "id": "personagens-masculino-03",
+      "genre": "personagens",
+      "genreLabel": "Personagens",
+      "subgenre": "masculino",
+      "file": "personagens/masculino/03.jpg",
+      "width": 736,
+      "height": 735,
+      "sha256": "9ff5cf21010158fe"
+    },
+    {
+      "id": "fantasia-sombria-retratos-01",
+      "genre": "fantasia-sombria",
+      "genreLabel": "Fantasia sombria / terror",
+      "subgenre": "retratos",
+      "file": "fantasia-sombria/retratos/01.jpg",
+      "width": 564,
+      "height": 971,
+      "sha256": "9703553ab6b3b0db"
+    },
+    {
+      "id": "fantasia-sombria-retratos-02",
+      "genre": "fantasia-sombria",
+      "genreLabel": "Fantasia sombria / terror",
+      "subgenre": "retratos",
+      "file": "fantasia-sombria/retratos/02.jpg",
+      "width": 549,
+      "height": 768,
+      "sha256": "137671b10ba08496"
+    },
+    {
+      "id": "fantasia-sombria-retratos-03",
+      "genre": "fantasia-sombria",
+      "genreLabel": "Fantasia sombria / terror",
+      "subgenre": "retratos",
+      "file": "fantasia-sombria/retratos/03.jpg",
+      "width": 563,
+      "height": 706,
+      "sha256": "1daa81f746be4858"
+    },
+    {
+      "id": "fantasia-sombria-retratos-04",
+      "genre": "fantasia-sombria",
+      "genreLabel": "Fantasia sombria / terror",
+      "subgenre": "retratos",
+      "file": "fantasia-sombria/retratos/04.jpg",
+      "width": 736,
+      "height": 1040,
+      "sha256": "2bec880153edace2"
+    },
+    {
+      "id": "fantasia-sombria-retratos-05",
+      "genre": "fantasia-sombria",
+      "genreLabel": "Fantasia sombria / terror",
+      "subgenre": "retratos",
+      "file": "fantasia-sombria/retratos/05.jpg",
+      "width": 500,
+      "height": 707,
+      "sha256": "7cd8c42231cf93ea"
+    },
+    {
+      "id": "ficcao-cientifica-retratos-01",
+      "genre": "ficcao-cientifica",
+      "genreLabel": "Ficção científica / futurismo",
+      "subgenre": "retratos",
+      "file": "ficcao-cientifica/retratos/01.jpg",
+      "width": 1200,
+      "height": 2133,
+      "sha256": "62d80d9e3af66291"
+    },
+    {
+      "id": "ficcao-cientifica-retratos-02",
+      "genre": "ficcao-cientifica",
+      "genreLabel": "Ficção científica / futurismo",
+      "subgenre": "retratos",
+      "file": "ficcao-cientifica/retratos/02.jpg",
+      "width": 429,
+      "height": 646,
+      "sha256": "9d4a2c710e463cfb"
+    },
+    {
+      "id": "ficcao-cientifica-retratos-03",
+      "genre": "ficcao-cientifica",
+      "genreLabel": "Ficção científica / futurismo",
+      "subgenre": "retratos",
+      "file": "ficcao-cientifica/retratos/03.jpg",
+      "width": 1200,
+      "height": 1687,
+      "sha256": "a54cb4e81c589b46"
+    },
+    {
+      "id": "ficcao-cientifica-retratos-04",
+      "genre": "ficcao-cientifica",
+      "genreLabel": "Ficção científica / futurismo",
+      "subgenre": "retratos",
+      "file": "ficcao-cientifica/retratos/04.jpg",
+      "width": 1080,
+      "height": 1430,
+      "sha256": "c1e85b4092f149af"
+    },
+    {
+      "id": "ficcao-cientifica-retratos-05",
+      "genre": "ficcao-cientifica",
+      "genreLabel": "Ficção científica / futurismo",
+      "subgenre": "retratos",
+      "file": "ficcao-cientifica/retratos/05.jpg",
+      "width": 847,
+      "height": 1505,
+      "sha256": "7cbe2f034d6608fa"
+    },
+    {
+      "id": "ficcao-cientifica-retratos-06",
+      "genre": "ficcao-cientifica",
+      "genreLabel": "Ficção científica / futurismo",
+      "subgenre": "retratos",
+      "file": "ficcao-cientifica/retratos/06.jpg",
+      "width": 500,
+      "height": 889,
+      "sha256": "e482fb5686eaef4f"
+    },
+    {
+      "id": "fantasia-sombria-ruinas-01",
+      "genre": "fantasia-sombria",
+      "genreLabel": "Fantasia sombria / terror",
+      "subgenre": "ruinas",
+      "file": "fantasia-sombria/ruinas/01.jpg",
+      "width": 1200,
+      "height": 675,
+      "sha256": "5d3d54bd7e23402a"
+    },
+    {
+      "id": "fantasia-sombria-ruinas-02",
+      "genre": "fantasia-sombria",
+      "genreLabel": "Fantasia sombria / terror",
+      "subgenre": "ruinas",
+      "file": "fantasia-sombria/ruinas/02.jpg",
+      "width": 1200,
+      "height": 580,
+      "sha256": "de2d811ad1138392"
+    },
+    {
+      "id": "fantasia-sombria-ruinas-03",
+      "genre": "fantasia-sombria",
+      "genreLabel": "Fantasia sombria / terror",
+      "subgenre": "ruinas",
+      "file": "fantasia-sombria/ruinas/03.jpg",
+      "width": 1200,
+      "height": 750,
+      "sha256": "988ec1dff466284f"
+    },
+    {
+      "id": "fantasia-sombria-cemiterios-01",
+      "genre": "fantasia-sombria",
+      "genreLabel": "Fantasia sombria / terror",
+      "subgenre": "cemiterios",
+      "file": "fantasia-sombria/cemiterios/01.jpg",
+      "width": 564,
+      "height": 328,
+      "sha256": "d5280a3d6c0a3172"
+    },
+    {
+      "id": "fantasia-sombria-cemiterios-02",
+      "genre": "fantasia-sombria",
+      "genreLabel": "Fantasia sombria / terror",
+      "subgenre": "cemiterios",
+      "file": "fantasia-sombria/cemiterios/02.jpg",
+      "width": 800,
+      "height": 447,
+      "sha256": "e1e6c77e251828ae"
+    },
+    {
+      "id": "fantasia-sombria-cemiterios-03",
+      "genre": "fantasia-sombria",
+      "genreLabel": "Fantasia sombria / terror",
+      "subgenre": "cemiterios",
+      "file": "fantasia-sombria/cemiterios/03.jpg",
+      "width": 736,
+      "height": 518,
+      "sha256": "dc21197cc0b1ee1d"
+    },
+    {
+      "id": "fantasia-sombria-florestas-escuras-01",
+      "genre": "fantasia-sombria",
+      "genreLabel": "Fantasia sombria / terror",
+      "subgenre": "florestas-escuras",
+      "file": "fantasia-sombria/florestas-escuras/01.jpg",
+      "width": 1200,
+      "height": 659,
+      "sha256": "7955eb205032aa00"
+    },
+    {
+      "id": "fantasia-sombria-florestas-escuras-02",
+      "genre": "fantasia-sombria",
+      "genreLabel": "Fantasia sombria / terror",
+      "subgenre": "florestas-escuras",
+      "file": "fantasia-sombria/florestas-escuras/02.jpg",
+      "width": 1200,
+      "height": 611,
+      "sha256": "1b40a1452af81cdc"
+    },
+    {
+      "id": "fantasia-sombria-florestas-escuras-03",
+      "genre": "fantasia-sombria",
+      "genreLabel": "Fantasia sombria / terror",
+      "subgenre": "florestas-escuras",
+      "file": "fantasia-sombria/florestas-escuras/03.jpg",
+      "width": 736,
+      "height": 412,
+      "sha256": "169934d6ae6af9df"
+    },
+    {
+      "id": "fantasia-sombria-igrejas-abandonadas-01",
+      "genre": "fantasia-sombria",
+      "genreLabel": "Fantasia sombria / terror",
+      "subgenre": "igrejas-abandonadas",
+      "file": "fantasia-sombria/igrejas-abandonadas/01.jpg",
+      "width": 1200,
+      "height": 677,
+      "sha256": "81887dd5245dfea1"
+    },
+    {
+      "id": "fantasia-sombria-igrejas-abandonadas-02",
+      "genre": "fantasia-sombria",
+      "genreLabel": "Fantasia sombria / terror",
+      "subgenre": "igrejas-abandonadas",
+      "file": "fantasia-sombria/igrejas-abandonadas/02.jpg",
+      "width": 1100,
+      "height": 588,
+      "sha256": "1bb9d6fe830cef1a"
+    },
+    {
+      "id": "fantasia-sombria-igrejas-abandonadas-03",
+      "genre": "fantasia-sombria",
+      "genreLabel": "Fantasia sombria / terror",
+      "subgenre": "igrejas-abandonadas",
+      "file": "fantasia-sombria/igrejas-abandonadas/03.jpg",
+      "width": 735,
+      "height": 462,
+      "sha256": "499dade21a1d1627"
+    }
+  ]
+}
